@@ -1,6 +1,5 @@
 
 
-mass = ['wqeeq', '22', '232', 'ewewe', '1']
 
 def fun_m(mass):
     mass2 = []
@@ -9,4 +8,4 @@ def fun_m(mass):
             mass2.append(i)
     return mass2
 
-print(fun_m(mass))
+print(fun_m(['wqeeq', '22', '232', 'ewewe', '1']))
